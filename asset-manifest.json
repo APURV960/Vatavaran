@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vatavaran/static/css/main.6598afb5.css",
+    "main.js": "/Vatavaran/static/js/main.df6fd11f.js",
+    "static/media/winter.jpg": "/Vatavaran/static/media/winter.3f24563a6e90f03446db.jpg",
+    "static/media/summer.jpg": "/Vatavaran/static/media/summer.3239c5944a36c22c1a7c.jpg",
+    "static/media/warm-bg.jpg": "/Vatavaran/static/media/warm-bg.a7f83012aa30f33e19ee.jpg",
+    "index.html": "/Vatavaran/index.html",
+    "main.6598afb5.css.map": "/Vatavaran/static/css/main.6598afb5.css.map",
+    "main.df6fd11f.js.map": "/Vatavaran/static/js/main.df6fd11f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6598afb5.css",
+    "static/js/main.df6fd11f.js"
+  ]
+}
